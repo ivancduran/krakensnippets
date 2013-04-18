@@ -1,0 +1,21 @@
+<snippet>
+	<content><![CDATA[
+<!-- MENU -->
+<div id='menu'>
+  <nav class="nav left">
+    <ul>
+      <li class="current"><a href="#">${1:Grids}</a></li>
+      <li><a href="#">${2:Slider}</a></li>
+      <li><a href="#">${3:Menu}</a></li>
+      <li><a href="#">${4:Fonts}</a></li>
+      <li><a href="#">${5:Shadows}</a></li>
+      <li><a href="#">${6:Botones}</a></li>
+    </ul>
+  </nav>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>k.menu</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

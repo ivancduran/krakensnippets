@@ -1,0 +1,14 @@
+<snippet>
+	<content><![CDATA[
+<div class="button-group">
+	<a href="#" class="button primary">${1:Dashboard}</a>
+	<a href="#" class="button">${2:Inbox}</a>
+	<a href="#" class="button">${3:Account}</a>
+	<a href="#" class="button">${4:Logout}</a>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>k.group</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>

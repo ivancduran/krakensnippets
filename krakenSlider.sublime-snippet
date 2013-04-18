@@ -1,0 +1,26 @@
+<snippet>
+	<content><![CDATA[
+<div class="slider">
+    <div class="callbacks_container">
+      <ul class="rslides" id="slider">
+        <li>
+          <img src="${1:img/1.jpg}" alt="">
+          <p class="caption">${2:Hola!}</p>
+        </li>
+        <li>
+          <img src="${3:img/2.jpg}" alt="">
+          <p class="caption">${4:Soy un Slider!}</p>
+        </li>
+        <li>
+          <img src="${5:img/3.jpg}" alt="">
+          <p class="caption">${6:Whoaaa!}</p>
+        </li>
+      </ul>
+    </div>
+</div>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>k.slider</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
