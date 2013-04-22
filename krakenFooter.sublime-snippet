@@ -1,0 +1,51 @@
+<snippet>
+	<content><![CDATA[
+<footer class="grid-12 footer">
+
+	<div class="grid-8" style="text-align:justify;">
+	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+	tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+	quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo.
+	<div class="span" value="2.5"></div></div>
+
+	<div class=" grid-4 centrar">
+	<h4>
+		Redes sociales
+	</h4>
+		<a href="#"><img src="img/face.png" alt="FB" class="r_sociales"></a>
+		<a href="#"><img src="img/twit.png" alt="TWR" class="r_sociales"></a>
+	</div>
+
+    <hr>
+    <div class="grid-12 center">
+      <div class="grid-4">
+      		<ul>
+				<li>uno</li>
+				<li>dos</li>
+			</ul>
+      </div>
+      <div class="grid-4">
+      		<ul>
+				<li>uno</li>
+				<li>dos</li>
+			</ul>
+      </div>
+      <div class="grid-4">
+      		<ul>
+				<li>uno</li>
+				<li>dos</li>
+			</ul>
+      </div>
+    </div>
+
+	<hr>
+    <div class="grid-12 font-copyright">
+	    Copyright © 2013. All Rights Reserved. Designated trademarks and brands are the property of their respective owners, Use of this web site constitutes acceptance of the Terms of Use and Privacy Policy.
+	</div>
+</footer>
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>k.footer</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+</snippet>
